@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 686b4eb5f2d6b5d43bca467d694134b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Red Hat Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 252be8fc754d71a458bd132de5dc6413, type: 3}
+  - {fileID: 12800000, guid: b213ae15c368d4743af7576d47313f57, type: 3}
+  - {fileID: 12800000, guid: 21870224531c328459c8d1463d10619c, type: 3}
+  - {fileID: 12800000, guid: f0e4aa26ed7ee5849a5c0cb55855525d, type: 3}
+  - {fileID: 12800000, guid: cdd751ac54a494446b01f9d408a9159c, type: 3}
+  - {fileID: 12800000, guid: a12433804adb86243a993df1ce7e968d, type: 3}
+  - {fileID: 12800000, guid: 71702ede77dc77c49a884e78e30136f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
